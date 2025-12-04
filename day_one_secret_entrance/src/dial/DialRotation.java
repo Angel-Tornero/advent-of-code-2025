@@ -1,8 +1,8 @@
 package dial;
 
 public class DialRotation {
-    private Direction direction;
-    private int clicks;
+    private final Direction direction;
+    private final int clicks;
 
     public DialRotation(Direction direction, int clicks) {
         this.direction = direction;
