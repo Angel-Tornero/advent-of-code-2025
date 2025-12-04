@@ -1,4 +1,4 @@
-package day_one_secret_entrance;
+package dial;
 
 public enum Direction {
     RIGHT,
