@@ -1,4 +1,4 @@
-package shop;
+package day_2_gift_shop.src;
 
 public class ProductIdRange {
     private final long initialId;

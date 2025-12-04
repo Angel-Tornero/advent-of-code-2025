@@ -1,4 +1,4 @@
-package shop;
+package day_2_gift_shop.src;
 
 import java.util.List;
 import java.util.stream.IntStream;

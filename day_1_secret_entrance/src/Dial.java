@@ -1,4 +1,4 @@
-package dial;
+package day_1_secret_entrance.src;
 
 import java.util.List;
 

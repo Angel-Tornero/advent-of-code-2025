@@ -1,4 +1,4 @@
-package shop;
+package day_2_gift_shop.src;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 
 public class Main {
-    private static final String INPUT_PATH = "day_two_gift_shop/src/shop/input";
+    private static final String INPUT_PATH = "day_2_gift_shop/src/input";
 
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(new FileReader(INPUT_PATH))) {

@@ -1,4 +1,4 @@
-package dial;
+package day_3_lobby.src;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    private static final String INPUT_PATH = "day_one_secret_entrance/src/dial/input";
+    private static final String INPUT_PATH = "day_3_lobby/src/input";
     private static final int DIAL_SIZE = 100;
     private static final int DIAL_INITIAL_POSITION = 50;
 
